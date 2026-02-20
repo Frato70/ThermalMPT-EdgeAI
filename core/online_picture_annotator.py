@@ -11,6 +11,9 @@ def generate_annotated_pictures_and_save(model, seq_num:int, output_folder_name:
     
     frames = sorted(seq_dir.glob("*.png"))
 
+    if not frames:
+        raise FileNotFoundError(f"No PNG-Pictures found under: {seq_dir}")
+
     box_annotator = sv.BoxAnnotator()
     label_annotator = sv.LabelAnnotator()
 
