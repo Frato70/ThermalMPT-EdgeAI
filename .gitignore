@@ -1,0 +1,8 @@
+# Dataset
+data/
+
+# Generated outputs
+output/
+
+# Pretrained weights
+rf-detr_thermal_ema.pth
