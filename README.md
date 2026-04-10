@@ -40,7 +40,7 @@ PyTorch & Torchvision (CUDA enabled)
 # Setup
 
 # Repository klonen
-git clone https://github.com/YourUsername/AI-Winterschool-PoseEstimation.git
+git clone https://github.com/Frato70/ThermalMPT-EdgeAI.git
 cd AI-Winterschool-PoseEstimation
 # Abhängigkeiten installieren
 pip install -r requirements.txt
