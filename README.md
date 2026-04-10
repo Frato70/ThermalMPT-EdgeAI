@@ -60,7 +60,6 @@ Output: Global vector reprojection and COCO-JSON standardization.
 
 👥 Authors / Autoren
 Agahan Yuldashev – M.Sc. EU4M Mechatronic Engineering (HKA)
-Richard Höpken – M.Sc. Computer Science (HKA)
 
 📜 License / Lizenz
 This project is licensed under the MIT License - see the LICENSE file for details.
