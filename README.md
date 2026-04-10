@@ -58,5 +58,5 @@ Pose Estimation: Top-down ViTPose extracts 17 keypoints for each tracked person 
 Output: Global vector reprojection and COCO-JSON standardization.
 
 
-👥 Authors / Autoren
+👥 Author / Autor
 Agahan Yuldashev – M.Sc. EU4M Mechatronic Engineering (HKA)
